@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **sachinb100/sachinb100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Sachin! 👋
+
+
+
+## 🚀 About Me
+I'm a backend developer developing projects with python and django
+
+
+## 🛠 Skills
+
+•Python,Java,HTML,CSS
+
+•Django
+
+•Git
